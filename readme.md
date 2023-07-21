@@ -1,5 +1,8 @@
 # project setup
 
+## Watch the tutorial
+🖥️ [YouTube](https://www.youtube.com/watch?v=jR8swMXyTIU)
+
 ## Install a Virtual Environment
 
 Use the built in python3 moduled venv to create a virtual directory.
@@ -56,5 +59,8 @@ python http_requests.py
 - ensure that vs code is pointing the interpreter to the virtual environment
 
 ![vs-code-interpreter](./images/vs-code-interpreter-selection.png)
+
+
+
 
 
